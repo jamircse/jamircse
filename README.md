@@ -23,9 +23,13 @@ I’m a Front End Web developer who is passionate about making error-free websit
 Skills:  REACT/NodeJs / JS /Python/Django/ HTML / CSS
 
 ✅ 🔭 I’m currently working on Javascript 
+
 ✅ 🌱 I’m currently learning Javascript 
+
 ✅ 👯 I’m looking to collaborate on github 
+
 ✅ 🤔 I’m looking for help with Javascript 
+
 ✅ 💬 Ask me about Web Development 
 
 
