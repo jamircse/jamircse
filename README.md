@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi  👋, I'm Jamir Hossain
+# I'm Jamir Hossain
 #### Web Developer
 ![Web Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t1.6435-9/83334670_3142925449265346_7649393473514110976_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=wWp9o0aW4S0AX9v6ktp&tn=F0delEqZ_1mTA9oY&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT-KNcNJ1_PWH2_qSdgkVF1-pa2WAFQ6VRCPG946WJZcPQ&oe=637CBD9F)
 
