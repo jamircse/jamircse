@@ -1,52 +1,47 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jamir</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<!--
-**jamircse/jamircse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamircse&label=Profile%20views&color=0e75b6&style=flat" alt="jamircse" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamircse" alt="jamircse" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# I'm Jamir Hossain
-#### Web Developer
-![Web Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t1.6435-9/83334670_3142925449265346_7649393473514110976_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=wWp9o0aW4S0AX9v6ktp&tn=F0delEqZ_1mTA9oY&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT-KNcNJ1_PWH2_qSdgkVF1-pa2WAFQ6VRCPG946WJZcPQ&oe=637CBD9F)
+<p align="left"> <a href="https://twitter.com/jamirhosssain" target="blank"><img src="https://img.shields.io/twitter/follow/jamirhosssain?logo=twitter&style=for-the-badge" alt="jamirhosssain" /></a> </p>
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
+- 🔭 I’m currently working on [javascript](https://jamircse.github.io/TypingTest/)
 
-Skills:  REACT/NodeJs / JS /Python/Django/ HTML / CSS
+- 🌱 I’m currently learning **javascript**
 
-✅ 🔭 I’m currently working on Javascript 
+- 👯 I’m looking to collaborate on **javascript**
 
-✅ 🌱 I’m currently learning Javascript 
+- 🤝 I’m looking for help with **javascript**
 
-✅ 👯 I’m looking to collaborate on github 
+- 👨‍💻 All of my projects are available at [https://jamircse.github.io/ContactMe/](https://jamircse.github.io/ContactMe/)
 
-✅ 🤔 I’m looking for help with Javascript 
+- 📝 I regularly write articles on [https://github.com](https://github.com)
 
-✅ 💬 Ask me about Web Development 
+- 💬 Ask me about **Js,NodeJs,React,Python,Django,HTML,CSS**
 
+- 📫 How to reach me **jamir.cse@gmail.com or https://jamircse.github.io/ContactMe**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamircse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamir-hossain-835418155/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jamir.cse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jamir.nwu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jamirhosssain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jamircse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14519687)  
+- 📄 Know about my experiences [https://github.com/jamircse](https://github.com/jamircse)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- ⚡ Fun fact **I think I am funny**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamircse)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/jamircse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jamircse" height="30" width="40" /></a>
+<a href="https://twitter.com/jamirhosssain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamirhosssain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jamir-hossain-835418155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamir-hossain-835418155/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14519687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14519687" height="30" width="40" /></a>
+<a href="https://fb.com/jamir.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jamir.cse" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamircse)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamircse&show_icons=true&count_private=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamircse&show_icons=true&locale=en&layout=compact" alt="jamircse" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jamircse)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamircse&show_icons=true&locale=en" alt="jamircse" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/jamircse)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamircse&" alt="jamircse" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jamircse)  
-
-![Profile views](https://gpvc.arturio.dev/jamircse)  
